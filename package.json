@@ -1,0 +1,23 @@
+{
+  "name": "my-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinsOnuoha/serverless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinsOnuoha/serverless/issues"
+  },
+  "homepage": "https://github.com/MartinsOnuoha/serverless#readme",
+  "devDependencies": {
+    "serverless-offline": "^3.25.5"
+  }
+}
