@@ -1,3 +1,3 @@
 # serverless
-### A Serverless boilerplate deployed on AWs
+### Serverless boilerplate deployed on AWs
 
